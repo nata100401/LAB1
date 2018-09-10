@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+
+
+h1{
+	color:#BD2123;
+	size: 20px;
+}
+
+div style{
+	height: 20px;
+	width: 20px;
+}
+
+footer{
+	background: black;
+	color:white;
+	text-align:center;
+	clear: both;
+	padding: 10px 5px;
+}
